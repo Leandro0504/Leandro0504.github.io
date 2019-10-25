@@ -17,7 +17,7 @@ function movimentaPanda(){
   }
   
   if(keyIsDown(DOWN_ARROW)){
-    if(yPanda < 360)
+    if(yPanda < 365)
       yPanda += 5;  
   }
 }
